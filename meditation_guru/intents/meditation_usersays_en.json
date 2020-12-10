@@ -1,0 +1,67 @@
+[
+  {
+    "id": "17015002-dd80-40e5-8335-570b2131a31a",
+    "data": [
+      {
+        "text": "lead a meditation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d936bab5-4ea6-40c1-8e82-be1888abfc5b",
+    "data": [
+      {
+        "text": "start my daily routine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7e15eba-aa95-4b37-b276-12296eee2628",
+    "data": [
+      {
+        "text": "meditation session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ddd4679-56af-4a1f-a9cc-8a6793d1d5f6",
+    "data": [
+      {
+        "text": "i\u0027d like to meditate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73f48161-be4a-4576-abb7-d79475e600b0",
+    "data": [
+      {
+        "text": "start meditation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
